@@ -1,0 +1,7 @@
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\bin\Debug\26June20.exe.config
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\bin\Debug\26June20.exe
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\bin\Debug\26June20.pdb
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\obj\Debug\26June20.csproj.CoreCompileInputs.cache
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\obj\Debug\26June20.exe
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\obj\Debug\26June20.pdb
+C:\Users\Raheel\Desktop\TRAINING C#\Day2\26June20\obj\Debug\26June20.csprojAssemblyReference.cache
